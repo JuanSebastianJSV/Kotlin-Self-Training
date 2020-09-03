@@ -1,0 +1,3 @@
+
+rootProject.name = "SoloTrainingKotlin16"
+
